@@ -73,7 +73,7 @@ OverlayCallback overlays[] = { msOverlay };
 int overlaysCount = 1;
 
 const char ssid[] = "IMISSMYPUPPY";  //  your network SSID (name)
-const char pass[] = "8503213371";       // your network password
+const char pass[] = "";       // your network password
 
 // NTP Servers:
 IPAddress timeServer(128, 138, 140, 44); // time-a.timefreq.bldrdoc.gov
